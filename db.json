@@ -6,6 +6,33 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "bruno@kenzie.com",
+      "password": "$2a$10$soyfbM/jpCpAjin3KE0m.ujgvG8cWtncHyr33Tt/7ovtHdJPDGp/m",
+      "name": "Bruno",
+      "age": 19,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "type": "horse",
+      "name": "Safira",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "horse",
+      "name": "trovão",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "type": "gato",
+      "name": "Garfield",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
