@@ -6,6 +6,94 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "bruno@kenzie.com",
+      "password": "$2a$10$RbQjFRiwt0f76kTTCP68/Ojm7xwmD2NdB4I9y9YY2xu9eDASe02G.",
+      "name": "Bruno Tetzner",
+      "id": 2
+    },
+    {
+      "email": "jon@winterIsComing.com",
+      "password": "$2a$10$VFwpn.aTEFpiIiWBLIRk4utkUULGhnx4aEsQIrBxPCYosx3fLs4GC",
+      "name": "Aegon",
+      "id": 3
+    },
+    {
+      "email": "brunoT@kenzie.com",
+      "password": "$2a$10$mQ1liaLuhty2utIrtAHjxuPgcj28XaA6Q7iFGM7VDvDkTkdGauyAO",
+      "name": "Bruno Tetzner ",
+      "id": 4
+    },
+    {
+      "email": "btetzner141@gmail.com",
+      "password": "$2a$10$q1RevuErXHzibqfAMrDtuenwr83v.lsyfKOyODoXOV1lPbVo0Ga7a",
+      "name": "Bruno Tetzner",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "quantity": 1
+    },
+    {
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png",
+      "quantity": 1
+    },
+    {
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png",
+      "quantity": 1
+    },
+    {
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png",
+      "quantity": 1
+    },
+    {
+      "name": "Coca-Cola",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png",
+      "quantity": 1
+    },
+    {
+      "name": "Milkshake Ovomaltine",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "quantity": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "quantity": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Milkshake Ovomaltine",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "quantity": 1,
+      "userId": 2,
+      "id": 2
     }
   ]
 }
